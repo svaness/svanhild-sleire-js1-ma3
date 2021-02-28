@@ -48,3 +48,9 @@ async function getGames() {
   }
 }
 getGames();
+
+// function displayError is placed in js/displayError.js
+
+// function displayError(message = "Oh no! An error occurred.") {
+//   return `<div class="error">${message}</div>`;
+// }
